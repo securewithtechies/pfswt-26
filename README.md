@@ -138,6 +138,7 @@ These writeups are provided for educational purposes. Feel free to learn from th
 
 **Made with ❤️ by Secure With Techies**
 
-[Website](https://securewith.tech) • [Twitter](https://twitter.com/SecureWithTech) • [Discord](https://discord.gg/swt)
+[Website](https://securewithtechies.com) • [Twitter](https://twitter.com/SecureWithTech) • [Instagram](https://instagram.com/securewithtechies)
 
 </div>
+
