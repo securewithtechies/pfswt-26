@@ -16,13 +16,14 @@
 
 ## 📋 Table of Contents
 
-| Category | Challenges | Total Points | Difficulty Range |
-|----------|-----------|--------------|------------------|
-| [Welcome](./Welcome/) | 5 | 50 | Easy |
-| [Cryptography](./Cryptography/) | 4 | 1600 | Easy → Expert |
-| [Web Exploitation](./WebExploitation/) | 4 | 1600 | Easy → Expert |
-| [Reverse Engineering](./ReverseEngineering/) | 4 | 1600 | Hard → Nightmare |
-| [OSINT](./OSINT/) | 3 | 850 | Easy → Hard |
+| Category | Challenges | Total Points |
+|----------|-----------|-------------|
+| [Welcome](./Welcome/) | 5 | 50 |
+| [Cryptography](./Cryptography/) | 4 | 1600 |
+| [Web Exploitation](./WebExploitation/) | 4 | 1600 |
+| [Forensics](./Forensics/) | 2 | 600 |
+| [Reverse Engineering](./ReverseEngineering/) | 4 | 1600 |
+| [OSINT](./OSINT/) | 3 | 850 |
 
 ---
 
@@ -58,6 +59,13 @@ Introductory challenges to familiarize participants with the CTF format.
 | The Secret Missives | 250 | LocalStorage + JWT Analysis | [Solution](./WebExploitation/02-Secret-Missives.md) |
 | The Underground Network | 500 | WebSocket + Cipher Chain | [Solution](./WebExploitation/03-Underground-Network.md) |
 | The Final Message | 750 | Multi-Vector Attack Chain | [Solution](./WebExploitation/04-Final-Message.md) |
+
+### Forensics (600 Points)
+
+| Challenge | Points | Technique | Writeup |
+|-----------|--------|-----------|--------|
+| Easyy Bruhh | 100 | Stegify + Base32 Decoding | [Solution](./Forensics/01-Easyy-Bruhh.md) |
+| Silent Harvest | 500 | PCAP Analysis + DNS Exfiltration + Steghide | [Solution](./Forensics/02-Silent-Harvest.md) |
 
 ### Reverse Engineering (1600 Points)
 
